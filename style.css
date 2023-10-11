@@ -1,0 +1,13 @@
+body { background:#E0F2F7; }
+
+h1 { color : blue; text-align : center;}
+
+details > summary:hover { background:mistyrose; }
+
+div.intro { text-align : center; }
+
+div.g1 { 
+	border-width:100px; 
+	border-color:#81BEF7 }
+#login {}
+
