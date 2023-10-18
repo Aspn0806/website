@@ -1,0 +1,28 @@
+body { background:#E0F2F7; }
+
+.main_title
+{ 
+	color : #FAFAFA;
+	text-align : center;
+	text-shadow: -2px 0 #000, 0 2px #000, 2px 0 #000, 0 -2px #000;
+	font-size : 100px;
+}
+
+details > summary:hover { background:mistyrose; }
+
+div.intro { text-align : center; }
+
+div.g1 { 
+	border-width:100px; 
+	border-color:#81BEF7 }
+#login {}
+
+#main {
+	background-image : 
+	url("main.png");
+	background-position : center center;
+	top : 0px 
+}
+
+
+
